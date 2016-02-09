@@ -1,0 +1,3 @@
+update `files` set `drive`='C'
+
+drive	varchar(255)	
